@@ -14,3 +14,8 @@
 •	Caculate the prior probabilities for two categories Crime and Entertainment
 •	We need to build vocabulary list
 •	We can use this vocabulary and create a dictionary
+We need to now find frequency/probability of each word - This is advantage of Naive Bayes
+Find conditional probability
+Find Top words of category = crime
+Find Top words of category = entertainment
+Since we got conditional probability, we will now find the prediction
